@@ -1,0 +1,26 @@
+{
+  "name": "WebScrapper",
+  "version": "1.0.0",
+  "description": "A Node.JS based application to scrape the webpage",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basant-kumar/WebScrapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basant-kumar/WebScrapper/issues"
+  },
+  "homepage": "https://github.com/basant-kumar/WebScrapper#readme"
+}
